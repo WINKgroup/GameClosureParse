@@ -1,4 +1,4 @@
-# Game Closure Native Inspector
+# Game Closure Parse SDK
 
 ## Overview
 
