@@ -1,0 +1,12 @@
+{
+    "name": "ParseSDK",
+    "version": "0.1.0",
+    "description": "Web Inspector for native JavaScript",
+    "homepage": "http://github.com/gameclosure/NativeInspector",
+    "author": "Christopher A. Taylor <chris@gameclosure.com>",
+    "keywords": ["debug", "debugger", "inspector", "profiler"],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/gameclosure/NativeInspector.git"
+    }
+}
